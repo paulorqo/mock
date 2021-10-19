@@ -1,0 +1,15 @@
+[
+  {
+    "history": "Bonificacao Totvs Antecipa",
+    "creditUnits": [],
+    "operation": 12,
+    "platformId": "12fa63ab-d32b-4635-ac50-ac098ed15bd2",
+    "erpId": "01000020013301",
+    "date": "20211006",
+    "debitDate": "20211006",
+    "localAmount": 428.88,
+    "feeAmount": 12.34,
+    "feeAmountOrigin": 0.1,
+    "typeOperation": 12
+  }
+]
